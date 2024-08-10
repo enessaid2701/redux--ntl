@@ -1,0 +1,22 @@
+{
+    "movieApp": "Movie App",
+    "home": "Home",
+    "search": "Search",
+    "favorites": "Favorites",
+    "language": "Language",
+    "footerText": "Film Web App. All rights reserved.",
+    "favoriteMovies": "Favorite Movies",
+    "noFavoriteMovies": "No favorite movies added yet.",
+    "viewDetails": "View Details",
+    "loading": "Loading...",
+    "searchMovies": "Search Movies",
+    "searchPlaceholder": "Search for a movie...",
+    "popularMovies": "Popular Movies",
+    "allMovies": "All Movies",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "releaseDate": "Release Date",
+    "rating": "Rating",
+    "noMoreMovies": "No more movies to load."
+  }
+  

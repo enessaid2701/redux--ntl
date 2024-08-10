@@ -1,0 +1,22 @@
+{
+    "movieApp": "Film Uygulaması",
+    "home": "Ana Sayfa",
+    "search": "Ara",
+    "favorites": "Favoriler",
+    "language": "Dil",
+    "footerText": "Film Web Uygulaması. Tüm hakları saklıdır.",
+    "favoriteMovies": "Favori Filmler",
+    "noFavoriteMovies": "Henüz favori film eklenmedi.",
+    "viewDetails": "Detayları Görüntüle",
+    "loading": "Yükleniyor...",
+    "searchMovies": "Filmleri Ara",
+    "searchPlaceholder": "Bir film ara...",
+    "popularMovies": "Popüler Filmler",
+    "allMovies": "Tüm Filmler",
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Kaldır",
+    "releaseDate": "Yayın Tarihi",
+    "rating": "Puan",
+    "noMoreMovies": "Yüklenecek başka film yok."
+  }
+  
